@@ -1,10 +1,7 @@
 import json
-data = {"Kobi Cohen": "0536290656",
-        "Bar Cohen": "0502564787",
-        "Anat Dori": "0523755549",
-        "David Marcovitz": "0546380204",
-        "Omer Mintz": "0546966422",
-        "David Weinstein": "0509077655"
+data = {"Joe Adams": "051669850",
+        "Jane Smith": "055664147",
+        "Brian Jovi": "074243432"
         }
 
 with open("dict_to_json.json", 'w') as fp:
