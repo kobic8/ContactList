@@ -37,7 +37,7 @@ def main():
 
         print("The following contacts found matched:\n {}".format(matched))
         user_input = input("Find another contact, or refine the search. Press q to exit:")
-    print("Thank you")
+    print("Thank You")
 
 
 if __name__ == '__main__':
